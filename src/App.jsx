@@ -16,14 +16,10 @@ function App() {
   const [currentPage, setCurrentPage] = useState(1); // Start at 1 for Countdown page
 
   // ⚠️ FOR TESTING: Comment out lines 18-21 to reset on every reload
-  // Check localStorage to persist birthday reached state
-  const [birthdayReached, setBirthdayReached] = useState(() => {
-    const saved = localStorage.getItem("birthdayReached");
-    return saved === "true";
-  });
+  // Check localStorage to persist birthday reached stat
 
   // ✅ FOR TESTING: Uncomment this line to always show countdown on reload
-  // const [birthdayReached, setBirthdayReached] = useState(false);
+   const [birthdayReached, setBirthdayReached] = useState(true);
 
   const [showEffects, setShowEffects] = useState(false);
 
