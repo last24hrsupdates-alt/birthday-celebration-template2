@@ -96,7 +96,7 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[Name]</span> 🎂
+                Happy Birthday <span className="highlight">Anamika ❤️ </span> 🎂
               </>
             ) : (
               <>
@@ -105,7 +105,9 @@ function App() {
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p> Wishing u a very Happy Birthday to my cutieeee pie...
+I hope my small gesture will put a smile on ur face.. Hehee
+My sukuuunn... 💗</p>
         </section>
 
         <Countdown
