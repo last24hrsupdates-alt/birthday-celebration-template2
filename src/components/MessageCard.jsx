@@ -13,9 +13,15 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = "Anamika ❤️\n\nWishing u a very Happy Birthday to my cutieeee pie...\nI hope my small gesture will put a smile on ur face.. Hehee\nMy sukuuunn...❤️\n\n- Piyush";
+    const message = `Anamika ❤️
 
-  // Handle page transitions
+Wishing u a very Happy Birthday to my cutieeee pie...
+I hope my small gesture will put a smile on ur face.. Hehee
+My sukuuunn...❤️
+
+- Piyush`;  
+  
+  //Handle transitions
   useEffect(() => {
     // Only trigger on transition to active
     if (isActive && !prevIsActive.current) {
