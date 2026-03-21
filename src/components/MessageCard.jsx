@@ -15,9 +15,22 @@ function MessageCard({ isActive }) {
 
     const message = `Anamika ❤️
 
-Wishing u a very Happy Birthday to my cutieeee pie...
-I hope my small gesture will put a smile on ur face.. Hehee
-My sukuuunn...❤️🎀
+To meri sukuuuuu ji urf my sukuun..💓
+
+Pehle to Wish u a Very Happy Birthday my love..❤️
+
+Birthday aapka hai but in real isse jyda special day mere lie ho nhi skta bcz aaj meri soul ka birth hua tha..Thank u so much yrr is duniya me aane ke lie..😭
+
+Agar aap nhi aati to mera kya hota yrr..Thank u so much Vijay Uncle and Pinky Aunt ko jo inhone itna ache person ko mere life me laye...😭
+
+Betuu aapke baare me kya hi bole aapme meri jaan basti hai yrr..aapki smile sukun deti hai jab aap haste ho to mera pura stress dur ho jata..betuu aise haste rhiega plz...🥹
+
+Aapka gussa aapka ladna sab pyaara hai betuu..aap gussa kijie hamko dho bhi skte hai but meri rhiega..😭Nhi reh paate hai jab bhi aapse baat nhi hota..aap attitude bhi dikhae(but thoda hi🥹) are nhi just kidding jitna hai utna dikhawa..but plz end Tak aapke saath rhna hai.. bahut jyada wala pyaar ho chuka hai aapse...kyu krwae yrr aap aisa..😭💓
+
+My peace,my sweetheart,my sukuu yr..🫂
+
+I love u a lot meri bacchiii..😭❤️🎀
+Stay mine always..🫂💓
 
 - Piyush`;  
   
